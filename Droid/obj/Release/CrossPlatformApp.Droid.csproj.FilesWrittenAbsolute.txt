@@ -1,0 +1,16 @@
+/Users/MGR4/Dropbox/MGRIV/the Student/of Full Sail University/Main Courses/Cross-Platform Mobile Development/Take 2/Lab 1/CrossPlatformApp/Droid/obj/Release/MonoAndroid,Version=v6.0.AssemblyAttribute.cs
+/Users/MGR4/Dropbox/MGRIV/the Student/of Full Sail University/Main Courses/Cross-Platform Mobile Development/Take 2/Lab 1/CrossPlatformApp/Droid/bin/Release/CrossPlatformApp.Droid.dll
+/Users/MGR4/Dropbox/MGRIV/the Student/of Full Sail University/Main Courses/Cross-Platform Mobile Development/Take 2/Lab 1/CrossPlatformApp/Droid/bin/Release/com.companyname.crossplatformapp.apk
+/Users/MGR4/Dropbox/MGRIV/the Student/of Full Sail University/Main Courses/Cross-Platform Mobile Development/Take 2/Lab 1/CrossPlatformApp/Droid/obj/Release/android/bin/com.companyname.crossplatformapp.apk
+/Users/MGR4/Dropbox/MGRIV/the Student/of Full Sail University/Main Courses/Cross-Platform Mobile Development/Take 2/Lab 1/CrossPlatformApp/Droid/obj/Release/res/layout/main.xml
+/Users/MGR4/Dropbox/MGRIV/the Student/of Full Sail University/Main Courses/Cross-Platform Mobile Development/Take 2/Lab 1/CrossPlatformApp/Droid/obj/Release/res/values/strings.xml
+/Users/MGR4/Dropbox/MGRIV/the Student/of Full Sail University/Main Courses/Cross-Platform Mobile Development/Take 2/Lab 1/CrossPlatformApp/Droid/obj/Release/res/mipmap-hdpi/icon.png
+/Users/MGR4/Dropbox/MGRIV/the Student/of Full Sail University/Main Courses/Cross-Platform Mobile Development/Take 2/Lab 1/CrossPlatformApp/Droid/obj/Release/res/mipmap-mdpi/icon.png
+/Users/MGR4/Dropbox/MGRIV/the Student/of Full Sail University/Main Courses/Cross-Platform Mobile Development/Take 2/Lab 1/CrossPlatformApp/Droid/obj/Release/res/mipmap-xhdpi/icon.png
+/Users/MGR4/Dropbox/MGRIV/the Student/of Full Sail University/Main Courses/Cross-Platform Mobile Development/Take 2/Lab 1/CrossPlatformApp/Droid/obj/Release/res/mipmap-xxhdpi/icon.png
+/Users/MGR4/Dropbox/MGRIV/the Student/of Full Sail University/Main Courses/Cross-Platform Mobile Development/Take 2/Lab 1/CrossPlatformApp/Droid/obj/Release/res/mipmap-xxxhdpi/icon.png
+/Users/MGR4/Dropbox/MGRIV/the Student/of Full Sail University/Main Courses/Cross-Platform Mobile Development/Take 2/Lab 1/CrossPlatformApp/Droid/obj/Release/R.cs.flag
+/Users/MGR4/Dropbox/MGRIV/the Student/of Full Sail University/Main Courses/Cross-Platform Mobile Development/Take 2/Lab 1/CrossPlatformApp/Droid/bin/Release/com.companyname.crossplatformapp-Signed.apk
+/Users/MGR4/Dropbox/MGRIV/the Student/of Full Sail University/Main Courses/Cross-Platform Mobile Development/Take 2/Lab 1/CrossPlatformApp/Droid/obj/Release/uploadflags.txt
+/Users/MGR4/Dropbox/MGRIV/the Student/of Full Sail University/Main Courses/Cross-Platform Mobile Development/Take 2/Lab 1/CrossPlatformApp/Droid/obj/Release/CrossPlatformApp.Droid.dll
+/Users/MGR4/Dropbox/MGRIV/the Student/of Full Sail University/Main Courses/Cross-Platform Mobile Development/Take 2/Lab 1/CrossPlatformApp/Droid/bin/Release/CrossPlatformApp.dll

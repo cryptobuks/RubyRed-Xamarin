@@ -1,0 +1,16 @@
+/Users/MGR4/Dropbox/MGRIV/the Student/of Full Sail University/Main Courses/Cross-Platform Mobile Development/Take 2/Lab 1/CrossPlatformApp/iOS/obj/iPhoneSimulator/Release/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/MGR4/Dropbox/MGRIV/the Student/of Full Sail University/Main Courses/Cross-Platform Mobile Development/Take 2/Lab 1/CrossPlatformApp/iOS/obj/iPhoneSimulator/Release/ibtool/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib
+/Users/MGR4/Dropbox/MGRIV/the Student/of Full Sail University/Main Courses/Cross-Platform Mobile Development/Take 2/Lab 1/CrossPlatformApp/iOS/obj/iPhoneSimulator/Release/ibtool/LaunchScreen.storyboardc/Info.plist
+/Users/MGR4/Dropbox/MGRIV/the Student/of Full Sail University/Main Courses/Cross-Platform Mobile Development/Take 2/Lab 1/CrossPlatformApp/iOS/obj/iPhoneSimulator/Release/ibtool/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib
+/Users/MGR4/Dropbox/MGRIV/the Student/of Full Sail University/Main Courses/Cross-Platform Mobile Development/Take 2/Lab 1/CrossPlatformApp/iOS/obj/iPhoneSimulator/Release/ibtool/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib
+/Users/MGR4/Dropbox/MGRIV/the Student/of Full Sail University/Main Courses/Cross-Platform Mobile Development/Take 2/Lab 1/CrossPlatformApp/iOS/obj/iPhoneSimulator/Release/ibtool/Main.storyboardc/Info.plist
+/Users/MGR4/Dropbox/MGRIV/the Student/of Full Sail University/Main Courses/Cross-Platform Mobile Development/Take 2/Lab 1/CrossPlatformApp/iOS/obj/iPhoneSimulator/Release/ibtool/Main.storyboardc/UIViewController-BYZ-38-t0r.nib
+/Users/MGR4/Dropbox/MGRIV/the Student/of Full Sail University/Main Courses/Cross-Platform Mobile Development/Take 2/Lab 1/CrossPlatformApp/iOS/obj/iPhoneSimulator/Release/ibtool/_BundleResourceWithLogicalName.items
+/Users/MGR4/Dropbox/MGRIV/the Student/of Full Sail University/Main Courses/Cross-Platform Mobile Development/Take 2/Lab 1/CrossPlatformApp/iOS/obj/iPhoneSimulator/Release/actool/partial-info.plist
+/Users/MGR4/Dropbox/MGRIV/the Student/of Full Sail University/Main Courses/Cross-Platform Mobile Development/Take 2/Lab 1/CrossPlatformApp/iOS/obj/iPhoneSimulator/Release/actool/asset-manifest.plist
+/Users/MGR4/Dropbox/MGRIV/the Student/of Full Sail University/Main Courses/Cross-Platform Mobile Development/Take 2/Lab 1/CrossPlatformApp/iOS/obj/iPhoneSimulator/Release/actool/_PartialAppManifest.items
+/Users/MGR4/Dropbox/MGRIV/the Student/of Full Sail University/Main Courses/Cross-Platform Mobile Development/Take 2/Lab 1/CrossPlatformApp/iOS/obj/iPhoneSimulator/Release/actool/_BundleResourceWithLogicalName.items
+/Users/MGR4/Dropbox/MGRIV/the Student/of Full Sail University/Main Courses/Cross-Platform Mobile Development/Take 2/Lab 1/CrossPlatformApp/iOS/obj/iPhoneSimulator/Release/optimized/
+/Users/MGR4/Dropbox/MGRIV/the Student/of Full Sail University/Main Courses/Cross-Platform Mobile Development/Take 2/Lab 1/CrossPlatformApp/iOS/bin/iPhoneSimulator/Release/CrossPlatformApp.iOS.exe
+/Users/MGR4/Dropbox/MGRIV/the Student/of Full Sail University/Main Courses/Cross-Platform Mobile Development/Take 2/Lab 1/CrossPlatformApp/iOS/obj/iPhoneSimulator/Release/CrossPlatformApp.iOS.exe
+/Users/MGR4/Dropbox/MGRIV/the Student/of Full Sail University/Main Courses/Cross-Platform Mobile Development/Take 2/Lab 1/CrossPlatformApp/iOS/bin/iPhoneSimulator/Release/CrossPlatformApp.dll

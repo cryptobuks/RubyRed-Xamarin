@@ -1,0 +1,4 @@
+CrossPlatformApp.Droid.MainActivity, CrossPlatformApp.Droid;md5945656aeaa0844882d8e1c66ad863f23.MainActivity
+CrossPlatformApp.Droid.MainActivity, CrossPlatformApp.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5945656aeaa0844882d8e1c66ad863f23.MainActivity
+CrossPlatformApp.Droid.MainActivity;md5945656aeaa0844882d8e1c66ad863f23.MainActivity
+crossplatformapp.droid.MainActivity;md5945656aeaa0844882d8e1c66ad863f23.MainActivity

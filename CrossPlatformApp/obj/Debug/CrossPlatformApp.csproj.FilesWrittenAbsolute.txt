@@ -1,0 +1,5 @@
+/Users/MGR4/Dropbox/MGRIV/the Student/of Full Sail University/Main Courses/Cross-Platform Mobile Development/Take 2/Lab 1/CrossPlatformApp/CrossPlatformApp/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Users/MGR4/Dropbox/MGRIV/the Student/of Full Sail University/Main Courses/Cross-Platform Mobile Development/Take 2/Lab 1/CrossPlatformApp/CrossPlatformApp/bin/Debug/CrossPlatformApp.dll.mdb
+/Users/MGR4/Dropbox/MGRIV/the Student/of Full Sail University/Main Courses/Cross-Platform Mobile Development/Take 2/Lab 1/CrossPlatformApp/CrossPlatformApp/bin/Debug/CrossPlatformApp.dll
+/Users/MGR4/Dropbox/MGRIV/the Student/of Full Sail University/Main Courses/Cross-Platform Mobile Development/Take 2/Lab 1/CrossPlatformApp/CrossPlatformApp/obj/Debug/CrossPlatformApp.dll
+/Users/MGR4/Dropbox/MGRIV/the Student/of Full Sail University/Main Courses/Cross-Platform Mobile Development/Take 2/Lab 1/CrossPlatformApp/CrossPlatformApp/obj/Debug/CrossPlatformApp.dll.mdb

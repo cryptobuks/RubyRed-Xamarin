@@ -1,0 +1,10 @@
+/Users/MGR4/Dropbox/MGRIV/the Student/of Full Sail University/Main Courses/Cross-Platform Mobile Development/Take 2/Lab 1/CrossPlatformApp/Droid/obj/Release/android/assets/CrossPlatformApp.Droid.dll
+/Users/MGR4/Dropbox/MGRIV/the Student/of Full Sail University/Main Courses/Cross-Platform Mobile Development/Take 2/Lab 1/CrossPlatformApp/Droid/obj/Release/android/assets/System.dll
+/Users/MGR4/Dropbox/MGRIV/the Student/of Full Sail University/Main Courses/Cross-Platform Mobile Development/Take 2/Lab 1/CrossPlatformApp/Droid/obj/Release/android/assets/System.Xml.dll
+/Users/MGR4/Dropbox/MGRIV/the Student/of Full Sail University/Main Courses/Cross-Platform Mobile Development/Take 2/Lab 1/CrossPlatformApp/Droid/obj/Release/android/assets/Mono.Android.dll
+/Users/MGR4/Dropbox/MGRIV/the Student/of Full Sail University/Main Courses/Cross-Platform Mobile Development/Take 2/Lab 1/CrossPlatformApp/Droid/obj/Release/android/assets/Java.Interop.dll
+/Users/MGR4/Dropbox/MGRIV/the Student/of Full Sail University/Main Courses/Cross-Platform Mobile Development/Take 2/Lab 1/CrossPlatformApp/Droid/obj/Release/android/assets/System.Core.dll
+/Users/MGR4/Dropbox/MGRIV/the Student/of Full Sail University/Main Courses/Cross-Platform Mobile Development/Take 2/Lab 1/CrossPlatformApp/Droid/obj/Release/android/assets/CrossPlatformApp.dll
+/Users/MGR4/Dropbox/MGRIV/the Student/of Full Sail University/Main Courses/Cross-Platform Mobile Development/Take 2/Lab 1/CrossPlatformApp/Droid/obj/Release/android/assets/mscorlib.dll
+/Users/MGR4/Dropbox/MGRIV/the Student/of Full Sail University/Main Courses/Cross-Platform Mobile Development/Take 2/Lab 1/CrossPlatformApp/Droid/obj/Release/android/assets/System.Runtime.Serialization.dll
+/Users/MGR4/Dropbox/MGRIV/the Student/of Full Sail University/Main Courses/Cross-Platform Mobile Development/Take 2/Lab 1/CrossPlatformApp/Droid/obj/Release/android/assets/System.ServiceModel.Internals.dll
